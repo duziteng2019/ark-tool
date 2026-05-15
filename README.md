@@ -92,8 +92,7 @@ echo 'export ARK_API_KEY="你的Key"' >> ~/.bashrc
 
 如果你觉得这个工具有用，欢迎打赏支持一下 🐒
 
-<!-- 把下面这行替换成你的微信收款码图片链接 -->
-<!-- ![微信收款码](wechat_pay.jpg) -->
+![微信收款码](wechat_pay.jpg)
 
 ---
 
